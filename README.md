@@ -1,0 +1,2 @@
+# 12.2_Js_Ders_Notuna_G-re_Gecme_Durumu
+12.2_Js_Ders_Notuna_Göre_Gecme_Durumu
